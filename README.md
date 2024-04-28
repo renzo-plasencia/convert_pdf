@@ -1,17 +1,19 @@
 # EDITOR DE PDF BÁSICO
 > Este proyecto lo realicé para poder aplicar lo que he autoaprendido en Python. Si tienes algun comentario, mejora o sugerencia coméntalo. Cualquier comentario constructivo será bien recibido.
 
+`Link:` https://github.com/renzo-plasencia/convert_pdf/blob/main/PDF_Convert_V1.py
+
 ## Librerías necesarias:
 * pdf2image
 * PIL
 * pypdf
 
 ## ¿Cómo ejecuto el script?
-* Necesitas tener instalado las librearías arriba mencionadas y el poppler y pegar su path en la variable "poppler_path".
+* Necesitas tener instaladas las librerías mencionadas anteriormente. Además, el poppler y pegar su path en la variable "poppler_path".
 
 ![ ](https://github.com/renzo-plasencia/convert_pdf/blob/main/Images/1.png)
 
-* ¡Ejecútalo!, no debería existir ningún error. 
+* ¡Ejecútalo!, no debería existir ningún error.
 
 > Te dejo más información sobre el **poppler path**: https://github.com/oschwartz10612/poppler-windows/releases
 
