@@ -9,7 +9,7 @@
 # ¿Cómo instalarlo?
 * Necesitas tener instalado poppler y pegar su path en la variable "poppler_path".
 (inserta imagen)
-* Luego ejecutalo, no debería haber ningún error. 
+* ¡Ejecutarlo!, no debería existir ningún error. 
 
 > Te dejo más información sobre el **poppler path**: https://github.com/oschwartz10612/poppler-windows/releases
 
