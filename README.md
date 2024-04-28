@@ -15,7 +15,7 @@
 
 ## Ejemplo de Uso: Necesitas convertir un PDF de varias páginas a varias imágenes
 1. Tener la ruta de tu archivo:
-> En este caso es: "D:\Python\Scripts v1\Programa PDF\Prueba_PDF" y el nombre del archivo "PDF v1.pdf"
+> En este caso es: "D:\Python\Scripts v1\Programa PDF\Prueba_PDF" y el nombre del archivo "PDF v1"
 2. Ejecutar el script:
 
 3. Navegar por el menú:
