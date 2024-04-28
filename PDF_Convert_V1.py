@@ -6,7 +6,7 @@ from PIL import Image
 from pypdf import PdfWriter,PdfReader
 #############################################################
 
-poppler_path = r'D:\Python\pillow\poppler-24.02.0\Library\bin' #CAMBIAR CUANDO SUBA A GITHUB POR "COLOCAR LA RUTA DE TU POPPLER"
+poppler_path = #COLOCA LA RUTA DE TU POPPLER
 
 # Limpiar consola
 def clearConsole():
