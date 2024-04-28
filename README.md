@@ -6,10 +6,10 @@
 * PIL
 * pypdf
 
-# ¿Cómo instalarlo?
-* Necesitas tener instalado poppler y pegar su path en la variable "poppler_path".
+## ¿Cómo ejecuto el script?
+* Necesitas tener instalado las librearías arriba mencionadas y el poppler y pegar su path en la variable "poppler_path".
 (inserta imagen)
-* ¡Ejecutarlo!, no debería existir ningún error. 
+* ¡Ejecútalo!, no debería existir ningún error. 
 
 > Te dejo más información sobre el **poppler path**: https://github.com/oschwartz10612/poppler-windows/releases
 
